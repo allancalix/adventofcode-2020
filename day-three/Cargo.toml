@@ -1,0 +1,15 @@
+[package]
+name = "day-three"
+version = "0.1.0"
+authors = ["Allan Calix <acalix0592@gmail.com>"]
+edition = "2018"
+
+[[bin]]
+name = "one"
+path = "src/one.rs"
+
+[[bin]]
+name = "two"
+path = "src/two.rs"
+
+[dependencies]
